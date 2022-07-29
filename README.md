@@ -1,4 +1,5 @@
-<p align="center">👋 I’m Adquinson Farias and I enjoy learning something new on my spare time 😁</p>
+<p align="center">👋I’m Adquinson Farias, a Computer Engineer that's quite good at bad jokes. 
+I also enjoy learning something new in my spare time. 😁</p>
 
 <p align="center">
 
