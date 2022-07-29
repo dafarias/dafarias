@@ -37,6 +37,20 @@ Source:
     </a>
 </div>
 
+  Languages
+  
+  
+  
+<div id="es" > 
+  (:es:)  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fb-1f1ea.png?v8" alt="drawing" width="25" height="25"/> 
+</div>
+  
+
+  
+<div id="en" > 
+  (:gb:)  <img src=https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1e7.png?v8" alt="drawing" width="25" height="25"/> 
+</div>
+
 
 ---
 
