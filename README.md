@@ -1,24 +1,12 @@
-<p align="center">👋I’m Adquinson Farias, a Computer Engineer that's quite good at bad jokes. 
-I also enjoy learning something new in my spare time. 😁</p>
+<p align="center"></p>
 
 <p align="center">
 
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/15015274/181688527-284eab54-b9c0-4317-bd83-3f65fd8e0db9.png"  width="312" height="312">
-</div>
-
-<!---
-Source:
-   ![programmer](https://user-images.githubusercontent.com/15015274/181688527-284eab54-b9c0-4317-bd83-3f65fd8e0db9.png)
-<a href="https://www.flaticon.com/free-stickers/computer" title="computer stickers">Computer stickers created by MEDZ - Flaticon</a>
---->
 
 ---
 - 👀 I’m interested in ...
-
-
 
 
 
